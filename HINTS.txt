@@ -1,0 +1,17 @@
+In eda we will analize data to found out:
+
+ 1. Missing variables
+ 2. All the numerical variables
+ 3. The distribution of the numerical variables
+ 4. Categorical variables
+ 5. Cardibality of Categorical variables
+ 6. Outliers
+ 7. Relationship between independent and dependent feature
+ 
+
+We will be performing all the below steps in Feature Engineering
+
+ 1.Missing values
+ 2.Temporal variables
+ 3.Categorical variables: remove rare labels
+ 4.Standarise the values of the variables to the same range

@@ -3,7 +3,7 @@ from tkinter import messagebox
 from PIL import Image, ImageDraw, ImageOps, ImageTk, ImageFilter
 import torch
 import numpy as np
-from MNIST.MNIST_Classificator import CNN  # ваш класс модели
+from MNIST_Classificator import CNN  # ваш класс модели
 import torchvision.transforms as transforms
 import torch.nn.functional as F
 
